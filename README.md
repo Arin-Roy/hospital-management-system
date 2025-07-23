@@ -1,4 +1,5 @@
 🏥 Hospital Management System
+
 📌 Overview
 Hospital Management System is a Python-based desktop application designed to efficiently manage patient records within a hospital environment. Developed using the Tkinter library for the graphical user interface and MySQL as the backend database, this project offers a comprehensive solution for storing, updating, and retrieving critical patient information. The system allows users to input details such as patient ID, name, blood group, diagnosed disease, prescribed medication, severity points, and address in a user-friendly form layout. With functionalities like real-time data entry, update, deletion, and viewing of records, it provides a seamless experience for hospital administrators or reception staff. The integration of MySQL through the PyMySQL connector ensures robust data storage and retrieval, while the intuitive GUI ensures ease of use for non-technical users.
 
